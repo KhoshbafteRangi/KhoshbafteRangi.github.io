@@ -27,7 +27,7 @@ function checkCode() {
         videoContainer.classList.remove("hidden");
         header.style.display = 'none';
         inputContainer.style.display = 'none';
-        document.title = "Watch the Video!";
+        document.title = "! اینم از ویدیو ای که میخواستی ";
     };
 
     // Reload the video player to apply the new source
